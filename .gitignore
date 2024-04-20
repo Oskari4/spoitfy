@@ -1,0 +1,6 @@
+/.cache
+/credentials.py
+/oauth.json
+/spotify-venv
+/spotify_json
+/__pycache__
